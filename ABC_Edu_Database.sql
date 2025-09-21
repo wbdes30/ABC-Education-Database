@@ -1,13 +1,6 @@
 -- Unit Code: COMP2350
 -- Assignment#: 3
--- Student ID Number: 47542470
 -- Student Name: Phuc Linh Nguyen
--- Tutor's Name: Mohib Ullah
--- Workshop Date/Time: Friday, 1-3pm
-
--- use your unit code followed by your student ID number. 
--- For example, if you are enrolled in COMP2350, and your student ID number is 123456
--- then, replace XXX with COMP2350_123456
 
 create database `COMP2350_47542470`; 
 use `COMP2350_47542470`;
