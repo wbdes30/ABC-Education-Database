@@ -1,5 +1,5 @@
 # ABC-Education-Database
-
+This project is part of the assignment for COMP2350 unit: Database Systems.
 ### Assignment Background 
 ABC education provider is planning to automate the manual process for fees management, unit enrolment, and student performance. You are tasked to design a database solution for an organization that provides academic and certification courses. Business rules relevant to the tasks are provided, so create stored functions and stored procedures to handle scenarios involving fee management, unit enrolment, and student performance.
 
